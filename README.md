@@ -1,24 +1,17 @@
-# README
+## サービス概要
+日々学習した事をマントラにして自分に語りかけるサービス。
+日々継続を見やすくするサービス。
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## メインのターゲットユーザー
+自分
 
-Things you may want to cover:
+## ユーザーが抱える課題
+メンタルヘルス系の本や動画を見たりするが、その場限りの学習になってしまい、見たり聞いたりした事を忘れてしまう。いざというとき人に説明できない。
 
-* Ruby version
+## 解決方法
+見たり聞いたりしたことを文章にして見える化して、それを音読すれば、より記憶に残りやすくなるのではないか？
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## 実装予定の機能
+- 音声認識による入力
+- 読み上げ音声の録音
+- 日毎の記録
